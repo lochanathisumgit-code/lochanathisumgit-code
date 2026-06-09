@@ -7,6 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lochanathisum&label=Profile%20views&color=0e75b6&style=flat" alt="lochanathisum" /> </p>
 
+
+  <p align="center"><img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/></p>
+
+  
 - 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **lochanathisumgit@gmail.com**
